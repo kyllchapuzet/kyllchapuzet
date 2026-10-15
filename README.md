@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salut, moi c'est Kyllian !
+# Kyllian
 
 ### Développeur • Étudiant
 
